@@ -1,16 +1,36 @@
-## Hi there 👋
+# Holii, I'm Alejo 👋
 
-<!--
-**Alejoarteaga17/Alejoarteaga17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Engineering student @ EAFIT University**  
+I'm a **Software Developer** & I'm also Interested in **HCI & UX**
 
-Here are some ideas to get you started:
+I like to build software that is not only functional, but I'm also improving design for the people who use it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚧 Currently working on
+
+**🌐 Personal Project — Web + HCI/UX and some Uni Projects**
+
+I'm currently exploring the intersection between **software development and HCI/UX**, building a web project and applying user research, usability, and accessibility testing throughout the process.
+
+---
+
+### 📌 Fav Projects Through Uni
+
+| Project | What is it? |
+| --- | --- |
+| 🏠 **[InmoFinder](https://github.com/Alejoarteaga17/InmoFinder)** | Real-estate platform with search, data processing and web scraping |
+| 🐾 **[Petly](https://github.com/Alejoarteaga17/Petly)** | Web platform for pet information and management |
+| 🤖 **[Recechat](https://github.com/Alejoarteaga17/Recechat)** | AI-powered recipe recommendation chatbot |
+
+---
+
+### 🌱 Currently learning
+
+`Human-Computer Interaction` · `UX Research` · `Accessibility` · `Software Architecture` · `Modern Front Frameworks` ·
+
+---
+
+### 📫 Find me & Conecta conmigo 
+
+[LinkedIn](https://www.linkedin.com/in/alejo-arteaga/) · [Instagram](https://www.instagram.com/alejoarteh05/)
