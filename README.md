@@ -31,6 +31,6 @@ I'm currently exploring the intersection between **software development and HCI/
 
 ---
 
-### 📫 Find me & Conecta conmigo 
+### 📫 Find me 
 
 [LinkedIn](https://www.linkedin.com/in/alejo-arteaga/) · [Instagram](https://www.instagram.com/alejoarteh05/)
